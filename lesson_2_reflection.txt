@@ -1,0 +1,4 @@
+One must create a repository in order to first bring the sort-of program tracker to this dirctory. Only then could one add files to the program tracker.
+
+It's kind-of a pop up window before adding files to a program, which gives an opportunitie to keep on adding or subtracting before fully commiting to the repository.
+
