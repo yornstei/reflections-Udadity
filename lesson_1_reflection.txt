@@ -1,0 +1,12 @@
+it helps to see what the file that worked had to drwa the contrast.
+
+if you choose the commits to update as apposed to it happening automaticly then you could add sence to each commit and it makes sence that each update is a full change not just an unmeaningfull change.
+
+Since each change could be many files intertwined.
+
+when everything is logged with notes you could go back to any version at any time see what the changes were there and see if you may want to go back to that version.
+
+theres no reson to worry it may messup the rest of the program since it's easier to find the differences and go back to them if need be
+
+I want to use it to keep my code stroed with git and all my chages as well.
+
